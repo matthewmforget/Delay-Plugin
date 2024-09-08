@@ -61,7 +61,7 @@ Steps:
 Clone the Repository:
 bash
 
-git clone https://github.com/<your-username>/<your-repo>.git
+git clone https://github.com/matthewmforget/Delay-Plugin.git
 
 Open in Projucer:
 Open Projucer and load the .jucer file (DelayPlugin.jucer).
